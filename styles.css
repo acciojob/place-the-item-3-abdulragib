@@ -1,13 +1,13 @@
 
 /* Your CSS Code here. */
-#holder{
+.holder{
     display:flex;
     justify-content:space-evenly;
     flex-direction: row;
     flex-wrap: wrap;
 }
 
-#holder > div{
+.holder > div{
     width: 200px;
     height: 100px;
     background-color: red;
